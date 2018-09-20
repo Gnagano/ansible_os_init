@@ -8,8 +8,15 @@ galaxy_info:
     - name: EL
       versions:
         - 6
+    - name: Ubuntu
+      versions:
+        - xenial # 16.04
   galaxy_tags:
     - centos
+    - ubuntu
     - initial
     - package
     - yum
+    - apt-get
+
+dependencies: []
